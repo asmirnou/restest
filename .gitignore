@@ -58,5 +58,8 @@ Desktop.ini
 $RECYCLE.BIN/
 *.lnk
 
+# CMake
+cmake-build-debug/
+
 # Idea
 .idea

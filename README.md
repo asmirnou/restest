@@ -1,0 +1,1 @@
+http://localhost:1984/resource
