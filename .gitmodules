@@ -1,0 +1,6 @@
+[submodule "dependency/restbed"]
+	path = dependency/restbed
+	url = https://github.com/corvusoft/restbed
+[submodule "dependency/json"]
+	path = dependency/json
+	url = https://github.com/Corvusoft/json-dependency
