@@ -59,7 +59,7 @@ $RECYCLE.BIN/
 *.lnk
 
 # CMake
-cmake-build-debug/
+cmake-build*/
 
 # Idea
 .idea
