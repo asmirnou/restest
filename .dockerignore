@@ -1,0 +1,9 @@
+# Project Files
+build/
+distribution/
+
+# CMake
+cmake-build*/
+
+# Idea
+.idea

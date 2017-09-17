@@ -1,0 +1,14 @@
+# This file uses the version 2 docker-compose file format, described here:
+# https://docs.docker.com/compose/compose-file/#version-2
+#
+version: '2'
+
+services:
+  restest:
+    container_name: restest
+    image: restest
+    build:
+      context: .
+      dockerfile: Dockerfile
+    ports:
+      - 8080:8080
