@@ -12,7 +12,8 @@ git clone --recursive https://github.com/asmirnou/restest.git
 mkdir restest/build
 cd restest/build
 cmake ..
-make 
+make test 
+make
 ```
 
 Run

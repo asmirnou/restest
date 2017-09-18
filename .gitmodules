@@ -4,3 +4,6 @@
 [submodule "dependency/json"]
 	path = dependency/json
 	url = https://github.com/Corvusoft/json-dependency
+[submodule "dependency/googletest"]
+	path = dependency/googletest
+	url = https://github.com/google/googletest.git
