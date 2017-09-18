@@ -7,7 +7,7 @@ COPY . ./restest
 RUN mkdir restest/build
 WORKDIR restest/build
 RUN cmake ..
-RUN make test
 RUN make
+RUN make test
 
 CMD ["/work/restest/build/restest"]
